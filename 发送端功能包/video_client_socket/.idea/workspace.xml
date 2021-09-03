@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="video_client_socket" targetName="gmock_main" />
+      <config projectName="video_client_socket" targetName="roscpp_generate_messages_py" />
+      <config projectName="video_client_socket" targetName="download_extra_data" />
+      <config projectName="video_client_socket" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="video_client_socket" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="video_client_socket" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="video_client_socket" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="video_client_socket" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="video_client_socket" targetName="run_tests" />
+      <config projectName="video_client_socket" targetName="doxygen" />
+      <config projectName="video_client_socket" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="video_client_socket" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="video_client_socket" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="video_client_socket" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="video_client_socket" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="video_client_socket" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="video_client_socket" targetName="roscpp_generate_messages_eus" />
+      <config projectName="video_client_socket" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="video_client_socket" targetName="std_msgs_generate_messages_py" />
+      <config projectName="video_client_socket" targetName="gtest_main" />
+      <config projectName="video_client_socket" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="video_client_socket" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="video_client_socket" targetName="tests" />
+      <config projectName="video_client_socket" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="video_client_socket" targetName="gmock" />
+      <config projectName="video_client_socket" targetName="video_socket_write" />
+      <config projectName="video_client_socket" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="video_client_socket" targetName="clean_test_results" />
+      <config projectName="video_client_socket" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="video_client_socket" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="video_client_socket" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="video_client_socket" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="video_client_socket" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="video_client_socket" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="video_client_socket" targetName="gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Default" GENERATION_DIR="$PROJECT_DIR$/.." />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1aae7d5-9d16-4b50-8373-364c3ba09ed1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1wLX7e42yTTV5jn9ecnXFqdEit3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../接收端功能包" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.video_socket_write">
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="clean_test_results" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="clean_test_results">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="download_extra_data" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="download_extra_data">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="doxygen" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="doxygen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="geometry_msgs_generate_messages_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="geometry_msgs_generate_messages_eus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="geometry_msgs_generate_messages_lisp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="geometry_msgs_generate_messages_nodejs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="geometry_msgs_generate_messages_py">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="gmock" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="gmock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="gmock_main" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="gmock_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="gtest" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="gtest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="gtest_main" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="gtest_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="roscpp_generate_messages_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="roscpp_generate_messages_eus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="roscpp_generate_messages_lisp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="roscpp_generate_messages_nodejs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="roscpp_generate_messages_py">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="rosgraph_msgs_generate_messages_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="rosgraph_msgs_generate_messages_eus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="rosgraph_msgs_generate_messages_lisp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="rosgraph_msgs_generate_messages_nodejs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="rosgraph_msgs_generate_messages_py">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="run_tests" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="run_tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="sensor_msgs_generate_messages_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="sensor_msgs_generate_messages_eus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="sensor_msgs_generate_messages_lisp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="sensor_msgs_generate_messages_nodejs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="sensor_msgs_generate_messages_py">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="std_msgs_generate_messages_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="std_msgs_generate_messages_eus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="std_msgs_generate_messages_lisp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="std_msgs_generate_messages_nodejs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="std_msgs_generate_messages_py">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="tests" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="video_socket_write" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="video_client_socket" TARGET_NAME="video_socket_write" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="video_client_socket" RUN_TARGET_NAME="video_socket_write">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.clean_test_results" />
+      <item itemvalue="CMake Application.download_extra_data" />
+      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_py" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.tests" />
+      <item itemvalue="CMake Application.video_socket_write" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1aae7d5-9d16-4b50-8373-364c3ba09ed1" name="Default Changelist" comment="" />
+      <created>1628238676646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628238676646</updated>
+      <workItem from="1628238677831" duration="2324000" />
+      <workItem from="1628472902065" duration="671000" />
+      <workItem from="1628478828189" duration="2189000" />
+      <workItem from="1628494317431" duration="28000" />
+      <workItem from="1628557022905" duration="36000" />
+      <workItem from="1628557060142" duration="325000" />
+      <workItem from="1628560141921" duration="1781000" />
+      <workItem from="1628563072091" duration="28000" />
+      <workItem from="1628579898856" duration="3092000" />
+      <workItem from="1628672649533" duration="137000" />
+      <workItem from="1628672802522" duration="16000" />
+      <workItem from="1628672820123" duration="854000" />
+      <workItem from="1629334934921" duration="1427000" />
+      <workItem from="1629358075016" duration="1990000" />
+      <workItem from="1629430456055" duration="11306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1089" y="490" width="380" height="396" key="FileChooserDialogImpl" timestamp="1630568395442">
+      <screen x="53" y="27" width="2507" height="1413" />
+    </state>
+    <state x="741" y="320" width="380" height="307" key="FileChooserDialogImpl/53.27.1666.894@53.27.1666.894" timestamp="1628494343527" />
+    <state x="977" y="406" width="380" height="396" key="FileChooserDialogImpl/53.27.2235.1156@53.27.2235.1156" timestamp="1628674367007" />
+    <state x="665" y="389" width="424" height="484" key="FileChooserDialogImpl/53.27.2501.1265@53.27.2501.1265" timestamp="1630567259824" />
+    <state x="1089" y="490" width="424" height="484" key="FileChooserDialogImpl/53.27.2507.1413@53.27.2507.1413" timestamp="1630568395442" />
+    <state width="2447" height="345" key="GridCell.Tab.0.bottom" timestamp="1628560752881">
+      <screen x="53" y="27" width="2501" height="1265" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.0.bottom/53.27.1666.894@53.27.1666.894" timestamp="1628494303113" />
+    <state width="2447" height="345" key="GridCell.Tab.0.bottom/53.27.2501.1265@53.27.2501.1265" timestamp="1628560752881" />
+    <state width="2453" height="394" key="GridCell.Tab.0.bottom/53.27.2507.1413@53.27.2507.1413" timestamp="1628479363330" />
+    <state width="2447" height="345" key="GridCell.Tab.0.center" timestamp="1628560752879">
+      <screen x="53" y="27" width="2501" height="1265" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.0.center/53.27.1666.894@53.27.1666.894" timestamp="1628494303110" />
+    <state width="2447" height="345" key="GridCell.Tab.0.center/53.27.2501.1265@53.27.2501.1265" timestamp="1628560752879" />
+    <state width="2453" height="394" key="GridCell.Tab.0.center/53.27.2507.1413@53.27.2507.1413" timestamp="1628479363329" />
+    <state width="2447" height="345" key="GridCell.Tab.0.left" timestamp="1628560752878">
+      <screen x="53" y="27" width="2501" height="1265" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.0.left/53.27.1666.894@53.27.1666.894" timestamp="1628494303110" />
+    <state width="2447" height="345" key="GridCell.Tab.0.left/53.27.2501.1265@53.27.2501.1265" timestamp="1628560752878" />
+    <state width="2453" height="394" key="GridCell.Tab.0.left/53.27.2507.1413@53.27.2507.1413" timestamp="1628479363328" />
+    <state width="2447" height="345" key="GridCell.Tab.0.right" timestamp="1628560752880">
+      <screen x="53" y="27" width="2501" height="1265" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.0.right/53.27.1666.894@53.27.1666.894" timestamp="1628494303112" />
+    <state width="2447" height="345" key="GridCell.Tab.0.right/53.27.2501.1265@53.27.2501.1265" timestamp="1628560752880" />
+    <state width="2453" height="394" key="GridCell.Tab.0.right/53.27.2507.1413@53.27.2507.1413" timestamp="1628479363329" />
+    <state width="2453" height="483" key="GridCell.Tab.1.bottom" timestamp="1628494303114">
+      <screen x="53" y="27" width="1666" height="894" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.1.bottom/53.27.1666.894@53.27.1666.894" timestamp="1628494303114" />
+    <state width="2453" height="483" key="GridCell.Tab.1.bottom/53.27.2507.1413@53.27.2507.1413" timestamp="1628479361281" />
+    <state width="2453" height="483" key="GridCell.Tab.1.center" timestamp="1628494303114">
+      <screen x="53" y="27" width="1666" height="894" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.1.center/53.27.1666.894@53.27.1666.894" timestamp="1628494303114" />
+    <state width="2453" height="483" key="GridCell.Tab.1.center/53.27.2507.1413@53.27.2507.1413" timestamp="1628479361280" />
+    <state width="2453" height="483" key="GridCell.Tab.1.left" timestamp="1628494303113">
+      <screen x="53" y="27" width="1666" height="894" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.1.left/53.27.1666.894@53.27.1666.894" timestamp="1628494303113" />
+    <state width="2453" height="483" key="GridCell.Tab.1.left/53.27.2507.1413@53.27.2507.1413" timestamp="1628479361280" />
+    <state width="2453" height="483" key="GridCell.Tab.1.right" timestamp="1628494303114">
+      <screen x="53" y="27" width="1666" height="894" />
+    </state>
+    <state width="2453" height="483" key="GridCell.Tab.1.right/53.27.1666.894@53.27.1666.894" timestamp="1628494303114" />
+    <state width="2453" height="483" key="GridCell.Tab.1.right/53.27.2507.1413@53.27.2507.1413" timestamp="1628479361280" />
+  </component>
+</project>
